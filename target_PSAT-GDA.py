@@ -600,7 +600,7 @@ def obtain_label_his_ls(features_B, feas_all_near_bank, pred_labs_near_bank, tar
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='PKMSM')
+    parser = argparse.ArgumentParser(description='PSAT-GDA')
     parser.add_argument('--gpu_id', type=str, nargs='?', default='1', help="device id to run")
     parser.add_argument('--s', type=int, default=0, help="source")
     parser.add_argument('--t', type=int, default=1, help="target")
