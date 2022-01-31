@@ -1,4 +1,4 @@
-# PDT
+# PSAT-GDA
 
 Code (pytorch) for ['Progressive Denoising Transformer for Generalized Source-Free Domain Adaptation']() on Digit, Office-31, Office-Home, VisDA-C.
 
