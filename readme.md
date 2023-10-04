@@ -1,6 +1,7 @@
 # PSAT-GDA
 
-Code (pytorch) for ['Progressive Source-Aware Transformer for Generalized Source-Free Domain Adaptation']() on Digit, Office-31, Office-Home, VisDA-C. This paper has been accepted by IEEE Transactions on Multimedia (TMM).
+Code (pytorch) for ['Progressive Source-Aware Transformer for Generalized Source-Free Domain Adaptation']() on Digit, Office-31, Office-Home, VisDA-C. This paper has been accepted by IEEE Transactions on Multimedia (TMM). 
+DOI: https://doi.org/10.1109/TMM.2023.3321421
 
 ### Preliminary
 
